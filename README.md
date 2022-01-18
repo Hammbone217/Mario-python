@@ -1,1 +1,1 @@
-# Mario-python
+# 2D Mario python game
